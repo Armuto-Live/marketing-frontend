@@ -10,8 +10,17 @@
     "start": "npx http-server ./dist"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.12",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "react-router-dom": "^6.4.3",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",

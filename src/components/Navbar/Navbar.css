@@ -11,10 +11,6 @@ nav{
     display: flex;
     align-items: center;
 }
-.idioma{
-    font-size: 16px;
-    cursor: pointer;
-}
 .search-container{
     border: 1px solid lightgray;
     display: flex;
@@ -28,6 +24,9 @@ nav{
 .center{
     flex: 1;
     text-align: center;
+}
+.Logo{
+    font-size: 25px;
 }
 .right{
     flex: 1;
